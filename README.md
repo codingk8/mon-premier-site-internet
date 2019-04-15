@@ -14,17 +14,20 @@ Support pour l'atelier "Internet et le Web : découvrir la magie du Net en créa
 
 ## Objectif
 
+##### 1. HTML
 ##### Identifier les baliser HTML et leurs attributs
 ##### Modifier le titre
 ##### Modifier le paragraphe
 
+##### 2. CSS
 ##### Identifier les sélecteurs CSS
 ##### Identifier les propriétés CSS et leurs valeurs
 ##### Changer la couleur du titre
 ##### Changer l'alignement du paragraphe
 
-##### Sauvegarder
+##### 3. Sauvegarder
 
+##### 4. Visualiser le résultat
 ##### Lancer le fichier HTML dans le navigateur
 
 ---
