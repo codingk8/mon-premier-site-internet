@@ -1,1 +1,35 @@
 /* CSS file */
+
+body {
+    margin: 50px;
+    font-size: 25px;
+    line-height: 1;
+}
+
+header {
+    color: blue;
+}
+
+h3 {
+    color: purple;
+    text-decoration: underline;
+}
+
+p {
+    color: olive;
+    font-size: 18px;
+    margin: 0;
+    font-family: cursive;
+}
+
+#vacances {
+  font-family: fantasy;
+  font-weight: bold;
+  color: pink;
+}
+
+.p1 {
+  color: red;
+  text-decoration: underline;
+
+}
